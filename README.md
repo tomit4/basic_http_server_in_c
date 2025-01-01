@@ -20,3 +20,14 @@ subject and solid starting reference point for this.
       basic javascript, and serve up some images.
 - [ ] Set it up to read multiple HTML files (i.e. /about, /blog, etc.).
 - [ ] Set up server to be able to handle multiple concurrent users.
+
+**NOTE:**
+
+See
+[this reddit thread](https://www.reddit.com/r/C_Programming/comments/kbfa6t/building_a_http_server_in_c/)
+for more details on what you can do to expand this project, specifically from
+user u/Drach88 towards the bottom.
+
+Alternatively, you can visit
+[this mirror](https://lr.vern.cc/r/C_Programming/comments/kbfa6t/building_a_http_server_in_c/)
+if it the mirror happens to be up.
